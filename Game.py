@@ -6,8 +6,8 @@ pygame.init()
 
 # Game Constants
 WIDTH, HEIGHT = 600, 800
-BG_COLOR = (50, 150, 255)  # Blue background
-BUBBLE_COLOR = (255, 255, 255)  # White bubbles
+BG_COLOR = (50, 150, 155)  # Blue background
+BUBBLE_COLOR = (255, 255, 155)  # White bubbles
 CATCHER_COLOR = (200, 50, 50)  # Red catcher
 
 # Bubble settings
